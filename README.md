@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Niki Hammond @activ8st
-- 👀 I’m interested in ... science, movies, art, videogames, cooking and of course programminh too
+- 👀 I’m interested in ... science, movies, art, videogames, cooking and of course programming too
 - 🌱 I’m currently learning IT& Programming in Unibo, im on my second year.
 
 - 📫 How to reach me .. @nikihammond04@gmail.com
