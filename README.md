@@ -1,8 +1,8 @@
 # Hi, I'm Niki 👋
 
-🎓 Student in **Tecnologie dei Sistemi Informatici** @ University of Bologna  
-💻 Interested in **IT systems, data analysis, automation and applied AI**  
-📍 Italy
+Student in **Tecnologie dei Sistemi Informatici** @ University of Bologna  
+ Interested in **IT systems, data analysis, automation and applied AI**  
+ Italy
 ---
 ## What I'm working on
 - University and internship projects in IT and software systems  
