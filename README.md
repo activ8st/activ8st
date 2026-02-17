@@ -1,11 +1,26 @@
-- 👋 Hi, I’m  Niki Hammond @activ8st
-- 👀 I’m interested in ... science, movies, art, videogames, cooking and of course programming too
-- 🌱 I’m currently learning IT& Programming in Unibo, im on my second year.
+# Hi, I'm Niki 👋
 
-- 📫 How to reach me ... @nikihammond04@gmail.com
+🎓 Student in **Tecnologie dei Sistemi Informatici** @ University of Bologna  
+💻 Interested in **IT systems, data analysis, automation and applied AI**  
+📍 Italy
+---
+## What I'm working on
+- University and internship projects in IT and software systems  
+- Applications involving data management and system integration  
+- Exploring practical uses of AI to support analysis and automation  
+---
+## Skills & Interests
+- Programming & software fundamentals  
+- Databases and data handling  
+- IT systems and infrastructures  
+- Process automation  
+- Applied artificial intelligence (learning & experimentation)
+---
+## Currently learning
+- Advanced data analysis techniques  
+- System integration and backend logic  
+- AI tools applied to real-world problems  
 
+---
 
-<!---
-activ8st/activ8st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Contact: **nikihammond04@gmail.com**
