@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... science, movies, art, videogames, cooking and of course programming too
 - 🌱 I’m currently learning IT& Programming in Unibo, im on my second year.
 
-- 📫 How to reach me .. @nikihammond04@gmail.com
+- 📫 How to reach me ... @nikihammond04@gmail.com
 
 
 <!---
